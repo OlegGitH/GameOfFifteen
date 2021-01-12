@@ -1,3 +1,3 @@
 # GameOfFifteen
 
-![alt text](https://github.com/OlegGitH/GameOfFifteen/tree/main/Gif)
+![alt text](https://github.com/OlegGitH/GameOfFifteen/blob/main/Gif/GameOfFifteen.gif)
